@@ -1,7 +1,7 @@
 # speedy-utilities
 Speedy Performance Utilities is a WordPress plugin to improve the performance of a WordPress website. It includes several utilities that can be activated and configured in order to improve various aspects of your website.
 
-This private plugin is only available to positive mission-driven, vegan, climate-friendly, and progressive organizations. Please [contact me](mailto:jason.runs@proton.me) for the installation file.
+This private plugin is only available to positive mission-driven, vegan, climate-friendly, and progressive organizations. Please [contact me](mailto:jason.runs@proton.me?subject=Requesting+access+to+Speedy+Performance+Utilities+plugin) for the installation file.
 
 ## Utilities included:
 - Disable jQuery Migrate on the frontend.
@@ -27,7 +27,7 @@ I have come to the realization that most Open Source software is created without
 
 ### How can I share this plugin with like-minded organizations or individuals?
 
-Please have them contact [jason.runs@proton.me](mailto:jason.runs@proton.me) with a description of their organization or website purpose. They will be provided with an installation file if their values align.
+Please have them contact [jason.runs@proton.me](mailto:jason.runs@proton.me) with the subject "Requesting access to Speedy Performance Utilities plugin" and a description of their organization or website purpose. They will be provided with an installation file if their values align.
 
 ### How do I configure the utilities?
 
