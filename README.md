@@ -32,3 +32,7 @@ Please have them contact [jason.runs@proton.me](mailto:jason.runs@proton.me) wit
 ### How do I configure the utilities?
 
 [Visit the wiki](https://github.com/jruns/speedy-utilities-public/wiki) to learn how to configure the plugin and use each utility.
+
+### Why am I not getting plugin updates?
+
+Periodically the access token that enables updating of the plugin might need to be changed. Contact [jason.runs@proton.me](mailto:jason.runs@proton.me) for an updated installation file if this happens and you are not seeing plugin updates that you know are available.
