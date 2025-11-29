@@ -31,4 +31,4 @@ Please have them contact [jason.runs@proton.me](mailto:jason.runs@proton.me) wit
 
 ### How do I configure the utilities?
 
-[Visit our wiki](https://github.com/jruns/speedy-utilities-public/wiki) to learn how to configure the plugin and use each utility.
+[Visit the wiki](https://github.com/jruns/speedy-utilities-public/wiki) to learn how to configure the plugin and use each utility.
