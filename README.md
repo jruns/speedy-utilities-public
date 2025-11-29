@@ -1,6 +1,8 @@
 # speedy-utilities
 Speedy Performance Utilities is a WordPress plugin to improve the performance of a WordPress website. It includes several utilities that can be activated and configured in order to improve various aspects of your website.
 
+This private plugin is only available to mission-driven and progressive organizations. Please [contact me](mailto:jason.runs@proton.me) for the installation file.
+
 **Utilities included:**  
 - Disable jQuery Migrate on the frontend.
 - Remove versions from external script and style source urls.
